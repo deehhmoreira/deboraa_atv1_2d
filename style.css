@@ -1,0 +1,29 @@
+body{background-color: rgb(223, 31, 31);
+}
+h1 {color: rgb(228, 165, 88);
+}
+.prt1 {text-align: center;
+       font-size: 150%;
+    color: black;
+}
+.prt2 {border-width: 5px ;
+     border-color: rgb(236, 240, 22);
+    border-style: dashed;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding-left: 17%;
+}
+.prt3 {border-width: 5px ;
+    border-color: rgb(10, 170, 37);
+   border-style: dotted;
+   margin-left: 10%;
+   margin-right: 50%;
+   padding-left: 16%;
+}
+.prt4 {border-width: 5px ;
+    border-color: rgb(10, 185, 112);
+    border-style: double;
+   margin-left: 15%;
+   margin-right: 20%;
+   padding-left: 15%;
+}
